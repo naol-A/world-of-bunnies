@@ -15,7 +15,7 @@ using namespace std;
 int male,prev_male,female,prev_female,mutant,chance,normal;
 string sexDict[4]={"male","female","female","male"};
 string colorDict[5]={"white","brown","black","spotted"};
-string nameDict[8]={"stuart","bob","george","wolverine","masterchief","catwomen","superman","gtx1080ti"};
+string nameDict[8]={"thumper","oreo","bun","coco","daisy mae","bugs bunny","midnight","angel"};
 
 struct bunny{       //data structure for linked list
 	string sex;
